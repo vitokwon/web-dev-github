@@ -1,0 +1,41 @@
+header {
+    width: 400px;
+    margin: 50px auto 50px auto;
+    border: 8px solid rgb(44, 44, 44);
+    background-color: rgb(243, 124, 32);
+}
+
+main {
+    border: 8px solid rgb(122, 32, 14);
+    width: 800px;
+    margin: auto;
+}
+
+#description {
+    color: blueviolet;
+    font-size: 50px;
+    border: 8px solid rgb(34, 231, 233);
+    width: 500px;
+    margin: 20px auto;
+}
+
+ol {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    text-align: center;
+    width: 600px;
+    margin: 20px auto 20px auto;
+    border: 8px solid rgb(44, 44, 44);
+    background-color: rgb(183, 211, 234);
+}
+
+li h2 {
+    color: rgb(188, 172, 11);
+}
+
+li p {
+    color: cornflowerblue;
+}
