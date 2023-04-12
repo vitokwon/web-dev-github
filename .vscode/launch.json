@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\PC\\OneDrive\\1. 코딩오욱\\6. 유데미(udemy)\\100일부트캠프챌린지\\web-dev-complete\\index.html"
+        }
+    ]
+}
